@@ -4,10 +4,9 @@
   "description": "Deshan Textile Point of Sale System v4 — Online & Offline with Supabase",
   "type": "module",
   "scripts": {
-  "dev": "node node_modules/vite/bin/vite.js",
-  "build": "node node_modules/vite/bin/vite.js build",
-  "preview": "node node_modules/vite/bin/vite.js preview"
-   
+   "dev": "node ./node_modules/vite/bin/vite.js",
+   "build": "node ./node_modules/vite/bin/vite.js build",
+   "preview": "node ./node_modules/vite/bin/vite.js preview"
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.39.0",
