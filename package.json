@@ -10,11 +10,11 @@
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.39.0",
+    "jsbarcode": "^3.11.6",
     "jspdf": "^2.5.1",
-    "jspdf-autotable": "^3.8.2",
-    "jsbarcode": "^3.11.6"
+    "jspdf-autotable": "^3.8.2"
   },
   "devDependencies": {
-    "vite": "^5.0.0"
+    "vite": "^5.4.21"
   }
 }
